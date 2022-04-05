@@ -1,0 +1,9 @@
+.banner{
+    background: url("pir.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom:15%;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
